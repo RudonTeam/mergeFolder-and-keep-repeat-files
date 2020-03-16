@@ -1,0 +1,7 @@
+== DEMO ==
+Download 'mergeFolders.php' to /any/folder/
+Create 2 folders: /any/folder/from/ and /any/folder/to/
+Copy every files or folders which are going to be merged into folder "from"
+Enable PHP in your Mac or Linux, like https://rudon.blog.csdn.net/article/details/104745975
+Run the command below to merge the files in folder "from":    php /any/folder/mergeFolders.php
+OK! Check the files in folder "to".
